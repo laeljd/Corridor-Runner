@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 6b283c34280dea74480583b7b54a830d
+timeCreated: 1462220392
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armario1
+    100002: Armario2
+    100004: Armario3
+    100006: Armario4
+    100008: Barril1
+    100010: Barril2
+    100012: BatenteDaPorta
+    100014: CabosDeDentroDaCaixa
+    100016: CabosDeForaDaCaixa
+    100018: Caixa de forca
+    100020: CorredorComBuraco
+    100022: CorredorComJanela
+    100024: //RootNode
+    100026: CorredorNormal
+    100028: DivisoriaDoCorredor
+    100030: PortaL
+    100032: PortaR
+    100034: TuboColuna
+    100036: Tubulacoes
+    100038: Tubulacoes_MeshPart0
+    100040: Tubulacoes_MeshPart1
+    100042: Camera
+    100044: CorredorComJanelaVidro
+    400000: Armario1
+    400002: Armario2
+    400004: Armario3
+    400006: Armario4
+    400008: Barril1
+    400010: Barril2
+    400012: BatenteDaPorta
+    400014: CabosDeDentroDaCaixa
+    400016: CabosDeForaDaCaixa
+    400018: Caixa de forca
+    400020: CorredorComBuraco
+    400022: CorredorComJanela
+    400024: //RootNode
+    400026: CorredorNormal
+    400028: DivisoriaDoCorredor
+    400030: PortaL
+    400032: PortaR
+    400034: TuboColuna
+    400036: Tubulacoes
+    400038: Tubulacoes_MeshPart0
+    400040: Tubulacoes_MeshPart1
+    400042: Camera
+    400044: CorredorComJanelaVidro
+    2300000: Armario1
+    2300002: Armario2
+    2300004: Armario3
+    2300006: Armario4
+    2300008: Barril1
+    2300010: Barril2
+    2300012: BatenteDaPorta
+    2300014: CabosDeDentroDaCaixa
+    2300016: CabosDeForaDaCaixa
+    2300018: Caixa de forca
+    2300020: CorredorComBuraco
+    2300022: CorredorComJanela
+    2300024: CorredorNormal
+    2300026: DivisoriaDoCorredor
+    2300028: PortaL
+    2300030: PortaR
+    2300032: TuboColuna
+    2300034: Tubulacoes_MeshPart0
+    2300036: Tubulacoes_MeshPart1
+    2300038: CorredorComJanelaVidro
+    2300040: Tubulacoes
+    3300000: Armario1
+    3300002: Armario2
+    3300004: Armario3
+    3300006: Armario4
+    3300008: Barril1
+    3300010: Barril2
+    3300012: BatenteDaPorta
+    3300014: CabosDeDentroDaCaixa
+    3300016: CabosDeForaDaCaixa
+    3300018: Caixa de forca
+    3300020: CorredorComBuraco
+    3300022: CorredorComJanela
+    3300024: CorredorNormal
+    3300026: DivisoriaDoCorredor
+    3300028: PortaL
+    3300030: PortaR
+    3300032: TuboColuna
+    3300034: Tubulacoes_MeshPart0
+    3300036: Tubulacoes_MeshPart1
+    3300038: CorredorComJanelaVidro
+    3300040: Tubulacoes
+    4300000: PortaR
+    4300002: PortaL
+    4300004: BatenteDaPorta
+    4300006: Armario4
+    4300008: Barril2
+    4300010: Armario3
+    4300012: CorredorNormal
+    4300014: DivisoriaDoCorredor
+    4300016: Armario2
+    4300018: CorredorComJanela
+    4300020: CabosDeDentroDaCaixa
+    4300022: CabosDeForaDaCaixa
+    4300024: Armario1
+    4300026: CorredorComBuraco
+    4300028: Tubulacoes_MeshPart0
+    4300030: Tubulacoes_MeshPart1
+    4300032: TuboColuna
+    4300034: Caixa de forca
+    4300036: Barril1
+    4300038: CorredorComJanelaVidro
+    4300040: Tubulacoes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
